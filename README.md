@@ -5,3 +5,10 @@ Projeto com base em um design do figma: https://www.figma.com/file/cfb4F7ZXMFQmv
 - Carlos Eduardo Carvalho Cardoso
 - Vinicius Silva de Sousa
 - Ercilia Maria Coelho de Carvalho
+
+
+#### Divisão
+
+Header - Vinicius
+Banner - Ercilia
+Cards - Eduardo
