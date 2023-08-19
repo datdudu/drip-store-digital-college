@@ -9,6 +9,6 @@ Projeto com base em um design do figma: https://www.figma.com/file/cfb4F7ZXMFQmv
 
 #### Divisão
 
-- Header -> Vinicius
-- Banner -> Ercilia
-- Cards -> Eduardo
+- Primeiro Header-> Vinicius
+- Primeiro Banner -> Ercilia
+- Cards (Destaques) -> Eduardo
